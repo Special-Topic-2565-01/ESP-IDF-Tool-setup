@@ -11,11 +11,9 @@ IDF ย่อมาจาก IoT Development Framework เป็น framework �
 1. Download ไฟล์ติดตั้งจาก https://dl.espressif.com/dl/esp-idf/
 
 
-<center>
-<img src="Pictures/Image_01.png" alt="Image 001" style="width:400px;" >
-</center>
-
- 
+<p align="center">
+<img  src="Pictures/Image_01.png" alt="Image 001" style="width:400px;" >
+</p>
 
 
 เลือก Espressif-IDE x.x.x with ESP-IDF vx.x.x
